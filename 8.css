@@ -1,0 +1,8 @@
+.rmr {
+    min-width: 50px!important;
+    width: 50px!important;
+    min-height: 50px!important;
+    max-height: 50px!important;
+    background-color: rgb(243, 243, 243)!important;
+    border: 2px solid rgb(0, 0, 0)!important;
+}
